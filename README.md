@@ -9,3 +9,4 @@ Note
 2. Tampilkan kolom store_city dan jumlahnya dari setiap store_city menggunakan Query
 3. Tampilkan kolom store_city, store_address, dan store_name berdasarkan awalan kalimat store_code 'TE' dan store_city 'BANDAR LAMPUNG' menggunakan query
 4. Tampilkan kolom store_city (unik), store_address, dan store_name menggunakan Query
+5. Tampilkan data soal no. 3 dengan limit 2 dan disortir descending kolom store_name 
