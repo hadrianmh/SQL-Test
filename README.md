@@ -11,4 +11,4 @@ Note
 4. Tampilkan kolom store_city (unik), store_address, dan store_name menggunakan Query
 5. Tampilkan data soal no. 3 dengan limit 2
 6. Tampilkan data soal no. 2, dan urutkan dari jumlah besar ke kecil
-7. Tampilkan data join table o2o_code dengan o2o_data
+7. Tampilkan data join table o2o_code dengan o2o_data (include data NULL)
